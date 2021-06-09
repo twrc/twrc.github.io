@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "My Story"
+title:  "My Story 4"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
