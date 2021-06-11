@@ -2,9 +2,7 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-NNVLMWZWH1"></script>
 
 <script>
-
 var host = window.location.hostname;
-
 if (host == "localhost" || host == "127.0.0.1")
 {
   console.log("Google Analytics DISABLED");
@@ -15,7 +13,6 @@ else
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-NNVLMWZWH1');
+  gtag('config', 'G-NNVLMWZWH1', { cookie_flags: 'SameSite=None;Secure' });
 }
-
 </script>
