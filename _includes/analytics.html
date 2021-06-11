@@ -2,7 +2,12 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-NNVLMWZWH1"></script>
 <script>
 const host = window.location.hostname;
-if (host != "localhost")
+if (host == "localhost" || host == "127.0.0.1")
+{
+  console.info("localhost");
+  console.info("Google Analytics DISABLED");
+}
+else
 {
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -12,8 +17,7 @@ if (host != "localhost")
 
   console.info("Google Analytics ENABLED");
 }
-else
-{
-  console.info("Google Analytics DISABLED");
-}
+
+console.info(host);
+
 </script>
