@@ -1,11 +1,13 @@
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-NNVLMWZWH1"></script>
 <script>
-const host = window.location.hostname;
+
+var host = window.location.hostname;
+console.info(host);
+
 if (host == "localhost" || host == "127.0.0.1")
 {
-  console.info("localhost");
-  console.info("Google Analytics DISABLED");
+  console.log("Google Analytics DISABLED");
 }
 else
 {
@@ -15,9 +17,7 @@ else
 
   gtag('config', 'G-NNVLMWZWH1');
 
-  console.info("Google Analytics ENABLED");
+  console.log("Google Analytics ENABLED");
 }
-
-console.info(host);
 
 </script>
