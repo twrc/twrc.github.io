@@ -13,7 +13,7 @@ In 2006 I was working in the fitness/healthcare world as a Kinesiologist when I 
 
 My path for the next 2 years had been bulldozed. I had nothing else to look forward to.
 
-Suddenly, I began to notice when I went to bed at night it wasn’t just my thoughts that were keeping me awake - it was also this weird urge to kick my legs, to move, to get out of bed and walk around, jump, stretch. Night after night I would get frustrated and wildly kick at my blankets - I’m pretty sure there was some screaming as  well.
+Around that time I began to notice when I went to bed at night it wasn’t just my thoughts that were keeping me awake - it was also this weird urge to kick my legs, to move, to get out of bed and walk around, jump, stretch. Night after night I would get frustrated and wildly kick at my blankets - I’m pretty sure there was some screaming as  well.
 
 On a routine visit with my doctor after months of sleepless nights, she asked if there was anything else she could help me with. 
 
@@ -25,8 +25,23 @@ A DIAGNOSIS! That meant there was a treatment, right?! Unfortunately, no. At tha
 
 A few days later I got a call from the school I had applied to - a spot had opened up and I was next on the waitlist if I wanted it. I had 4 weeks to secure tuition money, pack up my life and move to another province before classes started. So much for managing my stress!
 
-In the 15 years since, I’ve done a lot of personal research and have tried many a home remedy. Some work, some don’t. What works for me, may not work for you. What worked last night, may not work tonight.
+In the 15 years since, I’ve done a lot of personal research and have tried many a home remedy. Some work, some don’t. What worked last night, may not work tonight. What works for me, may not work for you.
 
 What I HAVE learned, is that there is always more to learn, and I want Well Rested to be a place we can all come to learn, share, question and cope!
 
 Here's hoping for restful legs!
+
+<!--
+<form method="POST" action="https://wellrestedblog.herokuapp.com/v3/entry/github/twrc/twrc.github.io/main/comments">
+  <input name="options[redirect]" type="hidden" value="https://twrc.github.io">
+  
+
+
+  <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+  <label><input name="fields[name]" type="text" value="test">Name</label>
+  <label><input name="fields[email]" type="email" value="a@a.com">E-mail</label>
+  <label><textarea name="fields[message]">Message</textarea></label>
+  
+  <button type="submit">Go!</button>
+</form>
+-->

@@ -23,14 +23,14 @@ name                     : "The Well Rested Blog"
 description              : "The description for this blog"
 url                      : https://twrc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : twrc/twrc.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo_black.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -44,8 +44,8 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+    branch               : "main" # "master"
+    endpoint             : "https://wellrestedblog.herokuapp.com/v3/entry/github/" # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
   siteKey                :
   secret                 :
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Katie"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "Healthcare worker by day and blogger by night"
+  bio              : "Movement specialist by day, fighting the urge to move by night"
   location         : "Canada"
   email            :
   links:
@@ -257,8 +257,8 @@ defaults:
       author_profile: true
       classes: wide
       read_time: true
-      comments: false
-      share: false
+      comments: true
+      share: true
       related: true
   # _pages
   - scope:
@@ -269,6 +269,6 @@ defaults:
       author_profile: true
       classes: wide
       read_time: false
-      comments: false
+      comments: true
       share: false
       related: false
