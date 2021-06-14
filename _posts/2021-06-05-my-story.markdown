@@ -30,18 +30,3 @@ In the 15 years since, I’ve done a lot of personal research and have tried man
 What I HAVE learned, is that there is always more to learn, and I want Well Rested to be a place we can all come to learn, share, question and cope!
 
 Here's hoping for restful legs!
-
-<!--
-<form method="POST" action="https://wellrestedblog.herokuapp.com/v3/entry/github/twrc/twrc.github.io/main/comments">
-  <input name="options[redirect]" type="hidden" value="https://twrc.github.io">
-  
-
-
-  <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-  <label><input name="fields[name]" type="text" value="test">Name</label>
-  <label><input name="fields[email]" type="email" value="a@a.com">E-mail</label>
-  <label><textarea name="fields[message]">Message</textarea></label>
-  
-  <button type="submit">Go!</button>
-</form>
--->

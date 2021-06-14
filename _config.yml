@@ -258,7 +258,7 @@ defaults:
       classes: wide
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -269,6 +269,6 @@ defaults:
       author_profile: true
       classes: wide
       read_time: false
-      comments: true
+      comments: false
       share: false
       related: false
