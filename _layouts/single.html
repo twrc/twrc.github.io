@@ -41,6 +41,14 @@ layout: default
           </aside>
         {% endif %}
         {{ content }}
+
+        <div class="disclaimer" style="font-size: 14px">
+          <b>Disclaimer</b>
+          <br>
+          This blog is for informational purposes only and not intended to replace professional medical diagnosis or treatment. Use of information found on Well Rested is at your own risk.
+          Please seek the advice of your doctor or another health provider with any questions you may have regarding your medical condition.
+        </div>
+
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
