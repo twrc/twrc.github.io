@@ -9,7 +9,6 @@ date:   2021-07-03 21:35:41 -0230
 categories: blog
 excerpt: "Why do I have the urge to move my legs at night?"
 ---
-
 <ins>*Restless Legs Syndrome*</ins> (RLS) is a medical condition also known as Willis-Ekbom disease.
 
 Depending on what you read/where you get your information, you may find something new each time you search “restless legs syndrome”.  I will do my best to outline the basics of what RLS is, though information is constantly changing (which, in my opinion, is a good thing).

@@ -1,0 +1,6 @@
+Format: jpg
+
+Resolution: 72x72
+
+Thumbnails:  400x267
+Images: 1320x880
