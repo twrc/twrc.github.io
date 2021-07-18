@@ -1,0 +1,3 @@
+
+editor=/Users/marcus/Downloads/Mark Text.app/Contents/MacOS/Mark Text
+posts_dir=../_posts
