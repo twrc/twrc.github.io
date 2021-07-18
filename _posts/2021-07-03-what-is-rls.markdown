@@ -41,7 +41,7 @@ To add to all this, many people with RLS will also experience a condition called
 
 The potential concern comes from the effect the symptoms of RLS can have on sleep. The uncomfortable, irritating and sometimes painful symptoms will make falling and staying asleep very difficult. 
 
-The importance of sleep and being “Well Rested” 😉 is widely known. Sleep deprivation can affect concentration, mood, memory, work productivity and can contribute to depression and anxiety - along with a laundry list of other concerns.
+The [importance of sleep](/blog/why-is-sleep-so-important/) and being “Well Rested” 😉 is widely known. Sleep deprivation can affect concentration, mood, memory, work productivity and can contribute to depression and anxiety - along with a laundry list of other concerns.
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/posts/2021-07-03-what-is-rls_01.jpg" alt="">
