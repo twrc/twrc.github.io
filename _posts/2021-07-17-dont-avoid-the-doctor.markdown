@@ -10,13 +10,13 @@ categories: blog
 excerpt: "Prolonged poor sleep is not ok. Don’t be afraid to talk to your doctor if your sleep is suffering for any reason."
 ---
 
-Sure it sounds pretty self explanatory, but the symptoms of restless legs can be tough to explain to someone who has never felt the aggravation. It can also be difficult for the person experiencing it to understand what is happening if they have never heard the term [“Restless Legs Syndrome”](/blog/what-is-rls/).
+Sure it sounds pretty self explanatory, but the symptoms of restless legs can be tough to explain to someone who has never felt the aggravation. It can also be difficult for the person experiencing it to understand what is happening if they have never heard the term [Restless Legs Syndrome](/blog/what-is-rls/).
 
 A lot of people think they won’t be understood or believed, and many don’t bring it up with their health care provider out of fear of the dreaded “it’s all in your head”.
 
 Trust me, it’s not.
 
-If you haven’t learned yet: [“poor sleep is not ok"](/blog/why-is-sleep-so-important/). (Link to Sleep post) If you are experiencing anything that is affecting your sleep long term, PLEASE chat with a doctor or healthcare provider.
+If you haven’t learned yet: [poor sleep is not ok](/blog/why-is-sleep-so-important/). If you are experiencing anything that is affecting your sleep long term, PLEASE chat with a doctor or healthcare provider.
 
 **What can I expect?**
 
