@@ -24,7 +24,7 @@ If you haven’t learned yet: [“poor sleep is not ok"](/blog/why-is-sleep-so-i
 
 There is no invasive testing to diagnose restless leg syndrome. In fact, there is no specific test at all. A diagnosis is made by a doctor’s assessment and the most discomfort you may feel is in answering some questions.
 
-Be prepared to go through an in-depth summary of your symptoms and sleep history ([use our free Sleep log PDF](https://raw.githubusercontent.com/twrc/twrc.github.io/main/assets/posts/HabitTracker.pdf) to summarize) and to review your medical and family history (if that information is available to you).
+Be prepared to go through an in-depth summary of your symptoms and sleep history (<a target="_blank" href="https://raw.githubusercontent.com/twrc/twrc.github.io/main/assets/posts/HabitTracker.pdf">use our free Sleep log PDF</a> to summarize) and to review your medical and family history (if that information is available to you).
 
 Features a doctor will look for, according to the National Institute of Neurological Disorders and Stroke are:
 
