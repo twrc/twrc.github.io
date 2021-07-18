@@ -45,6 +45,7 @@ While often not required, your doctor may refer you to a specialist for a sleep 
 Don’t panic, but unfortunately there is no cure for RLS and for most people it is a lifelong condition. 
 
 There are therapies and strategies to manage symptoms and improve sleep and we will talk about these in depth in future posts – stay tuned!!
+
 Some people will experience periods of remission when symptoms go away completely for a time.
 
 A diagnosis does not mean you will develop another neurological condition later in life. While it is true that people with a neurological condition (think – Parkinson’s Disease) may also develop RLS, having RLS does not mean you will develop Parkinson’s Disease. This was a personal fear of mine.
